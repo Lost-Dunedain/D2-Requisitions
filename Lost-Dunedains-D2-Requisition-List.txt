@@ -1,2 +1,4 @@
 title:Lost Dunedain's Destiny 2 Requisition List
 description:A DIM wishlist priortizing unique perk combinations for each weapon.
+
+dimwishlist:item=1084190509&perks=4090651448,689005463,280464955,2846385770#notes:test roll to see if this wishlist is working.
