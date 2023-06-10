@@ -1,4 +1,7 @@
 title:Lost Dunedain's Destiny 2 Requisition List
 description:A DIM wishlist priortizing unique perk combinations for each weapon.
 
-dimwishlist:item=1084190509&perks=4090651448,689005463,280464955,2846385770#notes:test roll to see if this wishlist is working.
+// Season of the Deep Craftables
+//notes:Unique Requisition for Targeted Redaction. A destabilizing 120 hand cannon is probably not very useful, but it is the only hand cannon that can currently roll destabilizing rounds.  Triple tap or Outlaw are likely the best synergy with destabilizing.  If looking for TT, try to get stability above 40 (assuming Unsated Hunger adds 20, more info needed) and the mag to 9 or better.  Outlaw
+dimwishlist:item=3890055324&perks=1392496348,3177308360,3400784728,2048641572,2053642371
+dimwishlist:item=3890055324&perks=1482024992,3177308360,1168162263,2048641572,2053642371
