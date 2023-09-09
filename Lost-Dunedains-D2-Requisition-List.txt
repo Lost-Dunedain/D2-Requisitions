@@ -5,3 +5,8 @@ description:A DIM wishlist priortizing unique perk combinations for each weapon.
 //notes:Unique Requisition for Targeted Redaction. A destabilizing 120 hand cannon is probably not very useful, but it is the only hand cannon that can currently roll destabilizing rounds.  Triple tap or Outlaw are likely the best synergy with destabilizing.  If looking for TT, try to get stability above 40 (assuming Unsated Hunger adds 20, more info needed) and the mag to 9 or better.  Outlaw
 dimwishlist:item=3890055324&perks=1392496348,3177308360,3400784728,2048641572,2053642371
 dimwishlist:item=3890055324&perks=1482024992,3177308360,1168162263,2048641572,2053642371
+
+// World Weapons
+//notes:Senuna is the only (Omolon) Adaptive frame currently with access to either pugilist or golden tricorn [as of S22].
+dimwishlist:item=5159537&perks=839105230,1885400500,1631667848,691659142
+dimwishlist:item=5159537&perks=839105230,1885400500,968510818,2610012052
