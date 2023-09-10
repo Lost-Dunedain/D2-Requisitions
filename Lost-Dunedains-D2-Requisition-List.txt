@@ -1,10 +1,23 @@
 title:Lost Dunedain's Destiny 2 Requisition List
 description:A DIM wishlist priortizing unique perk combinations for each weapon.
 
-// Season of the Deep Craftables
+// Season of the Witch [S22] Craftables
+//notes:Kept Confidence is the only weapon currently featuring the Loose Change + Collective Action combo.  While I'm not sure if it's a worthwhile option yet, elemental debuffs and elemental pickups usually go hand-in-hand, so it's worth at least trying.
+dimwishlist:item=1875512595&perks=1119449540,3324494224
+
+// Season of the Deep [S21] Craftables
 //notes:Unique Requisition for Targeted Redaction. A destabilizing 120 hand cannon is probably not very useful, but it is the only hand cannon that can currently roll destabilizing rounds.  Triple tap or Outlaw are likely the best synergy with destabilizing.  If looking for TT, try to get stability above 40 (assuming Unsated Hunger adds 20, more info needed) and the mag to 9 or better.  Outlaw
 dimwishlist:item=3890055324&perks=1392496348,3177308360,3400784728,2048641572,2053642371
 dimwishlist:item=3890055324&perks=1482024992,3177308360,1168162263,2048641572,2053642371
+//notes:Until It's Return is the only shotgun with overflow and cascade point. MW can be range or handling, and barrel options include full choke or a range increasing barrel.
+
+// Nightfall Weapons
+//notes:Buzzard is the only sidearm currently sporting Kinetic Tremors [S22].  Handling or range MW preferred.
+dimwishlist:item=213264394&perks=1482024992,1561002382,1354429876,3891536761
+
+// Iron Banner Weapons
+//notes:Pressurized Precision is one of two hatchling fusion rifles [S22]. However, the other one (Nox Perennial V) has other options for it, leaving PP the go-to PVE hatchling fusion. MW is a choice between charge time and handling.
+dimwishlist:item=1084190509&perks=689005463,3300816228,831391274
 
 // World Weapons
 //notes:Senuna is the only (Omolon) Adaptive frame currently with access to either pugilist or golden tricorn [as of S22].
