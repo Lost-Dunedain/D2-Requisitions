@@ -11,6 +11,10 @@ dimwishlist:item=3890055324&perks=1392496348,3177308360,3400784728,2048641572,20
 dimwishlist:item=3890055324&perks=1482024992,3177308360,1168162263,2048641572,2053642371
 //notes:Until It's Return is the only shotgun with overflow and cascade point. MW can be range or handling, and barrel options include full choke or a range increasing barrel.
 
+// Season of Defiance [S20] Craftables
+//notes:Perpetualis is left with being the go-to hatchling auto rifle, since Old Sterling and Rufus' Fury are better used in other ways. You'll want lots of stability and recoil control to land as many precision kills as possible.
+dimwishlist:item=392008588&perks=839105230,3142289711,2387244414,831391274
+
 // Nightfall Weapons
 //notes:Buzzard is the only sidearm currently sporting Kinetic Tremors [S22].  Handling or range MW preferred.
 dimwishlist:item=213264394&perks=1482024992,1561002382,1354429876,3891536761
@@ -20,6 +24,12 @@ dimwishlist:item=213264394&perks=1482024992,1561002382,1354429876,3891536761
 dimwishlist:item=1084190509&perks=689005463,3300816228,831391274
 
 // World Weapons
+//notes:Irukandji currently [S22] holds the honor of being the only top-slot sniper with access to Envious Assassin and Focused Fury.
+dimwishlist:item=2673925403&perks=839105230,3177308360,968510818,2896038713
+//notes:Lodbrok is the only auto rifle (and only non-Vault of Glass weapon) to give us the option of using Osmosis and Adrenaline Junkie together. Combined with the Hakke breach origin, this could make for some interesting stasis setups.
+dimwishlist:item=2328531378&perks=3661387068,1885400500,1774574192,11612903
+//notes:Old Sterling currently [S22] is the only auto rifle sporting both rewind rounds and focused fury. Those precision hits will come quite easily once field tested gets going.
+dimwishlist:item=3678653083&perks=839105230,3142289711,3418782618,2896038713
 //notes:Senuna is the only (Omolon) Adaptive frame currently with access to either pugilist or golden tricorn [as of S22].
 dimwishlist:item=5159537&perks=839105230,1885400500,1631667848,691659142
 dimwishlist:item=5159537&perks=839105230,1885400500,968510818,2610012052
