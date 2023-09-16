@@ -4,7 +4,7 @@ description:A DIM wishlist priortizing unique perk combinations for each weapon.
 // Season of the Witch [S22] Craftables
 
 //notes:Kept Confidence is the only weapon currently featuring the Loose Change + Multikill Clip combo.  Recommended MW Range or Handling
-dimwishlist:item=1875512595&perks=1482024992,3142289711,1119449540,2458213969
+dimwishlist:item=1875512595&perks=1482024992,3142289711,1119449540,2458213969,2565067140
 
 //notes:Eleatic Principle is one of two machine guns sporting the Well Rounded + Golden Tricorn setup, the other being The Swarm.  However, this LMG is a bit lacking for other unique perk combos. Recommended MW Range or Stability.
 dimwishlist:item=105306149&perks=839105230,744594675,2610012052
