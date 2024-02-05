@@ -46,6 +46,11 @@ dimwishlist:item=213264394&perks=1482024992,1561002382,1354429876,3891536761
 //notes:Pressurized Precision is one of two hatchling fusion rifles [S22]. However, the other one (Nox Perennial V) has other options for it, leaving PP the go-to PVE hatchling fusion. MW is a choice between charge time and handling.
 dimwishlist:item=1084190509&perks=689005463,3300816228,831391274
 
+// Spire of the Watcher Weapons
+
+//notes: The Officer's Revolver is currently the only legendary kinetic hand cannon with Redirection, making it a viable substitute for Malfeasance on Lucky Pants builds.
+dimwishlist:item=1555959830&perks=839105230,1140096971,1523832109,3201496230,566815328
+
 // World Weapons
 
 //notes:Irukandji currently [S22] holds the honor of being the only top-slot sniper with access to Envious Assassin and Focused Fury.
