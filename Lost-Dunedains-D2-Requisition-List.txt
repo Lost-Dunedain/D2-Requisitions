@@ -53,7 +53,11 @@ dimwishlist:item=1555959830&perks=839105230,1140096971,1523832109,3201496230,566
 
 // Deep Stone Crypt
 
-//notes:Posterity is currently the only energy slot hand cannon with Redirection.
+//notes:Posterity is currently the only energy slot hand cannon with Redirection. Can pair with Voltshot to build stacks quickly and/or burst down beefy majors.
+dimwishlist:item=3281285075&perks=4090651448,106909392,2173046394,3201496230,766321425
+
+
+//notes:Succession boasts the formidable Vorpal-Reconstruction combo, making it available for sustained damage as long as you have special ammo.
 
 // World Weapons
 
