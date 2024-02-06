@@ -53,6 +53,9 @@ dimwishlist:item=1555959830&perks=839105230,1140096971,1523832109,3201496230,566
 
 // Deep Stone Crypt
 
+//notes:Bequest has a higher base impact than any other adaptive frame sword, making it an excellent DPS option. Even after the nerf, Vorpal still provides a consistent damage buff that only requires attacking the right enemy. Surrounded nets a much higher damage, but requires 3 or more enemies within 8 meters during boss DPS, which is far from a guarantee. Obviously, masterwork Impact.
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,766321425
+
 //notes:Posterity is currently the only energy slot hand cannon with Redirection. Can pair with Voltshot to build stacks quickly and/or burst down beefy majors.
 dimwishlist:item=3281285075&perks=4090651448,106909392,2173046394,3201496230,766321425
 
