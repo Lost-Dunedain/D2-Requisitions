@@ -67,6 +67,9 @@ dimwishlist:item=3281285075&perks=4090651448,106909392,2173046394,3201496230,766
 //notes:Fortissimo is the only non-raid slug that can combine Focused Fury with a magazine refilling perk (Fourth Time's a Charm, in this case), but is hamstrung by the base magazine of 5.
 dimwishlist:item=2821430069&perks=839105230,791862061,1354429876,2896038713
 
+//notes:Heliocentric is the only sidearm with the double clip combo, but some might prefer having Enlightened Action supporting Kill Clip or Heal Clip coupled with Precision Instrument for a more on-demand damage boost.
+dimwishlist:item=3998080529&perks=1840239774,3142289711,2509860981
+
 //notes:Irukandji currently [S22] holds the honor of being the only top-slot sniper with access to Envious Assassin and Focused Fury.
 dimwishlist:item=2673925403&perks=839105230,3177308360,968510818,2896038713
 
